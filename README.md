@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @walisonjp
-- 👀 I’m interested in Java.
+- 👋 Hi, I’m @walisonjp, IT Support Analyst.
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT e JAVA.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: Whatsapp: +5534997934903

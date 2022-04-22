@@ -38,20 +38,20 @@
 
 **BootCamps - Concluídos**
 
-DIO - NTTDATA - Site Reliability Engineer
+📜DIO - NTTDATA - Site Reliability Engineer
 https://dio.me/certificate/1C397FF7
 
-DIO - Take Blip - Web Developer
+📜DIO - Take Blip - Web Developer
 https://dio.me/certificate/420221E8
 
-DIO - GFT - Quality Assurance
+📜DIO - GFT - Quality Assurance
 https://dio.me/certificate/688CB0E7
 
-DIO - GFT - Start - Java
+📜DIO - GFT - Start - Java
 https://dio.me/certificate/88FA4AFE
 https://dio.me/certificate/0D9774DA
 
-DIO - Cognizant - Cloud Data Engineer
+📜DIO - Cognizant - Cloud Data Engineer
 https://dio.me/certificate/EC72E607
 
 **BootCamps - Em finalização**

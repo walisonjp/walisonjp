@@ -54,6 +54,9 @@ https://dio.me/certificate/0D9774DA
 📜DIO - Cognizant - Cloud Data Engineer
 https://dio.me/certificate/EC72E607
 
+📜DIO - Decola Tech 3a edição
+https://www.dio.me/certificate/6BB6746A
+
 **BootCamps - Em finalização**
 
 DIO - Spread - FullStack Developer<br/>

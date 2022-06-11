@@ -74,7 +74,15 @@ DIO - Órbi Academy - Web Games Developer<br/>
 
 **Desafios** <br/>
 🛠️💻https://github.com/walisonjp/desafio-instagram<br/>
-🛠️💻https://github.com/walisonjp/Criando-um-Ecossistema-Hadoop-Totalmente-Gerenciado-com-Google-Cloud-Dataproc
+🛠️💻https://github.com/walisonjp/Criando-um-Ecossistema-Hadoop-Totalmente-Gerenciado-com-Google-Cloud-Dataproc<br/>
+🛠️💻https://github.com/walisonjp/Como-modelar-um-banco-de-controle-de-s-ries-assistidas<br/>
+🛠️💻https://github.com/walisonjp/Descomplicando-a-cria-o-de-pacotes-de-processamento-de-imagens-em-Python<br/>
+🛠️💻https://github.com/walisonjp/twidio/tree/main/twidio<br/>
+🛠️💻https://github.com/walisonjp/PROJETO_PRATICO_JAVA<br/>
+🛠️💻https://github.com/walisonjp/BOOTCAMP_POO<br/>
+🛠️💻https://github.com/walisonjp/banco_digital<br/>
+🛠️💻https://github.com/walisonjp/JogodeNave<br/>
+🛠️💻https://github.com/walisonjp/NETFLIX-CLONE<br/>
 
 <br/><br/><br/>
 <a href="https://github.com/walisonjp">

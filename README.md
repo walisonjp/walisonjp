@@ -64,6 +64,9 @@ https://www.dio.me/certificate/6BB6746A
 
 **BootCamps - Em finalização**
 
+DIO - TQI Fullstack Developer
+DIO - Santander Bootcamp Fullstack Developer<br/>
+DIO - Bootcamp: Geração Tech Unimed BH | Fullstack
 DIO - Spread - FullStack Developer<br/>
 DIO - Philips - FullStack Developer<br/>
 DIO - Órbi Academy - Web Games Developer<br/>

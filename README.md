@@ -73,6 +73,7 @@ DIO - Órbi Academy - Web Games Developer<br/>
 <br/>
 
 **Desafios** <br/>
+🛠️💻https://github.com/walisonjp/DIO-jogo-da-memoria<br/>
 🛠️💻https://github.com/walisonjp/desafio-instagram<br/>
 🛠️💻https://github.com/walisonjp/Criando-um-Ecossistema-Hadoop-Totalmente-Gerenciado-com-Google-Cloud-Dataproc<br/>
 🛠️💻https://github.com/walisonjp/Como-modelar-um-banco-de-controle-de-s-ries-assistidas<br/>

@@ -62,14 +62,6 @@ https://dio.me/certificate/EC72E607
 📜DIO - Decola Tech 3a edição
 https://www.dio.me/certificate/6BB6746A
 
-**BootCamps - Em finalização**
-
-DIO - TQI Fullstack Developer<br/>
-DIO - Santander Bootcamp Fullstack Developer<br/>
-DIO - Bootcamp: Geração Tech Unimed BH | Fullstack<br/>
-DIO - Spread - FullStack Developer<br/>
-DIO - Philips - FullStack Developer<br/>
-DIO - Órbi Academy - Web Games Developer<br/>
 <br/>
 
 **Desafios** <br/>
@@ -85,6 +77,9 @@ DIO - Órbi Academy - Web Games Developer<br/>
 🛠️💻https://github.com/walisonjp/banco_digital<br/>
 🛠️💻https://github.com/walisonjp/JogodeNave<br/>
 🛠️💻https://github.com/walisonjp/NETFLIX-CLONE<br/>
+🛠️💻https://github.com/walisonjp/cibersecurity-desafio-phishing<br/>
+🛠️💻https://github.com/walisonjp/cibersecurity-desafio-ransomware<br/>
+
 
 <br/><br/><br/>
 <a href="https://github.com/walisonjp">

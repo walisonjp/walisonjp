@@ -62,6 +62,10 @@ https://dio.me/certificate/EC72E607
 📜DIO - Decola Tech 3a edição
 https://www.dio.me/certificate/6BB6746A
 
+
+📜DIO - Formação de Cibersegurança
+https://www.dio.me/certificate/A96617E5
+
 <br/>
 
 **Desafios** <br/>

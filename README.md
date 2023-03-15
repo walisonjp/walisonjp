@@ -83,9 +83,7 @@ https://www.dio.me/certificate/A96617E5
 🛠️💻https://github.com/walisonjp/NETFLIX-CLONE<br/>
 🛠️💻https://github.com/walisonjp/cibersecurity-desafio-phishing<br/>
 🛠️💻https://github.com/walisonjp/cibersecurity-desafio-ransomware<br/>
-
-
-<br/><br/><br/>
+<br/><br/>
 <a href="https://github.com/walisonjp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walisonjp&theme=dracula&show_icons=true" />
 </a>

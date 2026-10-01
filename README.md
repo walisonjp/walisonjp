@@ -16,10 +16,11 @@
 
 Profissional de Tecnologia da Informação com experiência em **infraestrutura, redes, servidores, suporte técnico e administração de ambientes de TI**.
 
-Tenho atuação e interesse em ambientes envolvendo:
+Tenho experiência e conhecimentos em ambientes envolvendo:
 
 - 🌐 Infraestrutura de redes LAN/WAN/WLAN
 - 🖥️ Administração de servidores Linux e Windows
+- 🏢 Windows Server e Active Directory
 - 🔐 Segurança de redes e infraestrutura
 - 🐳 Docker e ambientes conteinerizados
 - ⚙️ DevOps e automação
@@ -47,37 +48,46 @@ Atualmente direciono meus estudos e projetos para **Infraestrutura, DevOps, Clou
 ![VPN](https://img.shields.io/badge/-VPN-333333?style=flat)
 ![MikroTik](https://img.shields.io/badge/-MikroTik-333333?style=flat&logo=mikrotik&logoColor=white)
 
-- Administração e troubleshooting de redes
 - TCP/IP
+- LAN / WAN / WLAN
 - VLAN
 - DNS
 - DHCP
 - VPN
 - Roteamento
 - Switching
-- Redes LAN/WAN/WLAN
+- Redes corporativas
+- Troubleshooting de redes
 - Segurança de redes
 - Monitoramento de infraestrutura
 
 ---
 
-## 🖥️ Sistemas Operacionais
+## 🖥️ Sistemas Operacionais, Virtualização e Infraestrutura
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian&logoColor=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows&logoColor=0078D6)
+![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox&logoColor=E57000)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-333333?style=flat&logo=truenas&logoColor=0095D5)
 
 - Linux
 - Ubuntu
 - Debian
 - Windows
-- Windows Server
+- Windows Server 2019 / 2022
+- Active Directory
+- Proxmox VE
+- Proxmox Backup Server
+- TrueNAS
+- Virtualização
 - Administração de servidores
-- Shell Script
-- Serviços de rede
 - Gerenciamento de usuários e permissões
+- Serviços de rede
+- Backup e recuperação
+- Shell Script
 - Troubleshooting
 
 ---
@@ -94,44 +104,53 @@ Atualmente direciono meus estudos e projetos para **Infraestrutura, DevOps, Clou
 - Docker
 - Docker Compose
 - Containers
-- Deploy de aplicações
-- CI/CD
 - Git
 - GitHub
 - GitHub Actions
+- CI/CD
 - Coolify
+- Deploy de aplicações
+- Gerenciamento de containers
+- Variáveis de ambiente
+- Persistência de dados
 - Automação de ambientes
-- Gerenciamento de aplicações conteinerizadas
 
 ---
 
 # ☁️ Cloud Computing
 
-### AWS
+## AWS
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3&logoColor=569A31)
 
+Conhecimentos e projetos envolvendo:
+
 - Amazon S3
+- Cloud Storage
 - Backup em Cloud
 - Armazenamento de objetos
-- Estratégias de backup
+- Backup de bancos de dados
+- Backup de volumes
+- Estratégias de recuperação
 - Integração de aplicações com Cloud Storage
 
-### Microsoft Azure
+---
 
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
+## Microsoft Azure
+
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
 
 Estudos e projetos envolvendo:
 
 - Azure Container Apps
 - Azure Container Registry
 - Azure Key Vault
-- Azure Storage
 - Azure SQL
+- Azure Storage
 - Azure Monitor
-- Log Analytics
-- Application Insights
+- Azure Log Analytics
+- Azure Application Insights
 - Azure Functions
 - Azure Service Bus
 - Azure Redis Cache
@@ -152,14 +171,16 @@ Estudos e projetos envolvendo:
 
 - Zabbix
 - Grafana
+- Prometheus
 - Monitoramento de servidores
 - Monitoramento de redes
+- Monitoramento de aplicações
 - Métricas
 - Logs
 - Alertas
 - Dashboards
 - Observabilidade
-- Monitoramento de aplicações
+- Troubleshooting
 
 ---
 
@@ -183,6 +204,7 @@ Estudos e projetos envolvendo:
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Microsoft](https://img.shields.io/badge/-Microsoft-333333?style=flat&logo=microsoft&logoColor=5E5E5E)
 
 Conhecimentos e estudos em:
 
@@ -191,9 +213,10 @@ Conhecimentos e estudos em:
 - VPN
 - Hardening
 - Controle de acesso
+- Active Directory
 - Segurança de servidores
+- Segurança de containers
 - Backup e recuperação
-- Segurança de ambientes Docker
 - Cybersecurity
 - Phishing
 - Ransomware
@@ -228,7 +251,7 @@ Embora meu foco profissional esteja direcionado para **Infraestrutura, DevOps e 
 
 # 🧰 Ferramentas
 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0079BF)
@@ -241,11 +264,11 @@ Embora meu foco profissional esteja direcionado para **Infraestrutura, DevOps e 
 
 Projeto voltado para **Infraestrutura, manutenção, monitoramento e soluções de Tecnologia da Informação**.
 
-Principais tecnologias e conceitos envolvidos:
+Tecnologias e conceitos envolvidos:
 
 - Infraestrutura de TI
-- Docker
 - Linux
+- Docker
 - Cloud
 - Monitoramento
 - Backup
@@ -322,32 +345,47 @@ Projetos de infraestrutura utilizando Docker e Coolify para:
 
 ## 💾 Estratégia de Backup com AWS S3
 
-Implementação de estratégias de backup utilizando:
+Projetos envolvendo estratégias de backup utilizando:
 
 - Amazon S3
 - Docker
 - PostgreSQL
 - Volumes persistentes
-- Backups automatizados
+- Backups de bancos de dados
 - Armazenamento externo
+- Recuperação de dados
 
 Objetivo:
 
-> Garantir maior segurança e disponibilidade dos dados de aplicações e infraestrutura.
+> Aumentar a segurança e disponibilidade dos dados de aplicações e infraestrutura.
 
 ---
 
 # 🎓 Certificações e Formação Técnica
 
-## ⭐ Cloud, DevOps e SRE
+## 🖥️ Infraestrutura, Virtualização e Microsoft
+
+📜 **Windows Server 2022 + 2019 + AZ-104 + AZ-900 + Active Directory**  
+🎓 Udemy — BoraPraNuvem & DICARJ  
+📅 Concluído em 17/09/2026 — 25 horas  
+🔗 https://ude.my/UC-0848a81a-4f39-4def-b40b-ef565eb29954
+
+📜 **Proxmox VE + Proxmox Backup Server + Debian 12 + TrueNAS**  
+🎓 Udemy — DICARJ & BoraPraNuvem  
+📅 Concluído em 17/09/2026 — 8,5 horas  
+🔗 https://ude.my/UC-e707e697-6d5b-4096-94f2-b8bddb76a58b
+
+---
+
+## ☁️ Cloud, DevOps e SRE
 
 📜 **DIO — NTTDATA — Site Reliability Engineer**  
-https://dio.me/certificate/1C397FF7
+🔗 https://dio.me/certificate/1C397FF7
 
 📜 **everis — Site Reliability Engineer Essentials**
 
 📜 **DIO — Cognizant — Cloud Data Engineer**  
-https://dio.me/certificate/EC72E607
+🔗 https://dio.me/certificate/EC72E607
 
 📜 **Formação DevOps Fundamentals**
 
@@ -368,7 +406,7 @@ https://dio.me/certificate/EC72E607
 ## 🔐 Cybersecurity
 
 📜 **DIO — Formação de Cibersegurança**  
-https://dio.me/certificate/A96617E5
+🔗 https://dio.me/certificate/A96617E5
 
 ---
 
@@ -387,23 +425,23 @@ https://dio.me/certificate/A96617E5
 ## 💻 Desenvolvimento
 
 📜 **DIO — Take Blip — Web Developer**  
-https://dio.me/certificate/420221E8
+🔗 https://dio.me/certificate/420221E8
 
 📜 **DIO — GFT — Quality Assurance**  
-https://dio.me/certificate/688CB0E7
+🔗 https://dio.me/certificate/688CB0E7
 
 📜 **DIO — GFT Start #3 — Java**  
-https://dio.me/certificate/0D9774DA
+🔗 https://dio.me/certificate/0D9774DA
 
 📜 **DIO — GFT Start #4 — Java**  
-https://dio.me/certificate/88FA4AFE
+🔗 https://dio.me/certificate/88FA4AFE
 
 📜 **DIO — GFT Start #5 — Java**  
-https://www.dio.me/certificate/9676FF73
+🔗 https://www.dio.me/certificate/9676FF73
 
 ---
 
-# 📚 Formação complementar
+## 📚 Formação complementar
 
 📜 **Lógica de Programação Essencial**
 
@@ -470,8 +508,12 @@ INFRAESTRUTURA
 ├── Redes
 ├── Linux
 ├── Windows Server
-├── Segurança
+├── Active Directory
+├── Virtualização
+├── Proxmox
+├── TrueNAS
 ├── Backup
+├── Segurança
 └── Troubleshooting
 
 DEVOPS
@@ -479,8 +521,8 @@ DEVOPS
 ├── Docker Compose
 ├── Git
 ├── GitHub
-├── CI/CD
 ├── GitHub Actions
+├── CI/CD
 ├── Coolify
 └── Automação
 
@@ -489,10 +531,12 @@ CLOUD
 │   └── S3
 │
 └── Microsoft Azure
-    ├── Containers
+    ├── Azure Container Apps
+    ├── Container Registry
     ├── Storage
     ├── Networking
-    ├── Monitor
+    ├── Azure Monitor
+    ├── Log Analytics
     ├── Functions
     ├── Key Vault
     ├── Entra ID
@@ -501,6 +545,7 @@ CLOUD
 OBSERVABILIDADE
 ├── Zabbix
 ├── Grafana
+├── Prometheus
 ├── Métricas
 ├── Logs
 └── Alertas
